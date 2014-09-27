@@ -1,2 +1,2 @@
-Common-MVC
+common-mvc, Just a web framework.
 ==========
